@@ -11,4 +11,4 @@ O objetivo deste projeto é explorar um conjunto de dados sobre uma vacinação 
 - **Tableau**: Para criação dos dashboards  
 
 ## 📂 Estrutura do Projeto
-📁 [analise-dados-sql-tableau](https://github.com/viniwallaz/Flu_shot_Healthcare/tree/main) │-- 📜 [README.md](https://github.com/viniwallaz/Flu_shot_Healthcare/blob/main/README.md) # Documentação do projeto │-- 📊 dashboard.png # Imagem do Dashboard Tableau │-- 📂 sql-queries/ # Consultas SQL utilizadas │ ├── extracao_dados.sql │ ├── limpeza_dados.sql │ ├── analise_dados.sql │-- 📂 dataset/ # Arquivo de dados utilizado │ ├── vendas.csv
+📁 [Análise_de_Vacinação_2022](https://github.com/viniwallaz/Flu_shot_Healthcare/tree/main) │-- 📜 [Instruções.md](https://github.com/viniwallaz/Flu_shot_Healthcare/blob/main/README.md) # Documentação do projeto │-- 📊 dashboard.png # Imagem do Dashboard Tableau │-- 📂 sql-queries/ # Consultas SQL utilizadas │ ├── extracao_dados.sql │ ├── limpeza_dados.sql │ ├── analise_dados.sql │-- 📂 dataset/ # Arquivo de dados utilizado │ ├── vendas.csv
