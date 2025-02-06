@@ -4,11 +4,11 @@
 > Este projeto utiliza SQL para análise de dados e Tableau para visualização interativa.
 
 ## 🔍 Descrição do Projeto
-O objetivo deste projeto é explorar um conjunto de dados sobre vendas, utilizando consultas SQL para extrair insights e criando dashboards no Tableau para uma melhor visualização.
+O objetivo deste projeto é explorar um conjunto de dados sobre uma vacinação realizado no ano de 2022, em alguns distritos do Estados Unidos.
 
 ## 🛠️ Ferramentas Utilizadas
-- **SQL**: PostgreSQL/MySQL/SQL Server  
+- **SQL**: PostgreSQL para extração dos dados.
 - **Tableau**: Para criação dos dashboards  
-- **Pandas e Python** (opcional): Para limpeza dos dados  
 
 ## 📂 Estrutura do Projeto
+📁 [analise-dados-sql-tableau](https://github.com/viniwallaz/Flu_shot_Healthcare/tree/main) │-- 📜 [README.md](https://github.com/viniwallaz/Flu_shot_Healthcare/blob/main/README.md) # Documentação do projeto │-- 📊 dashboard.png # Imagem do Dashboard Tableau │-- 📂 sql-queries/ # Consultas SQL utilizadas │ ├── extracao_dados.sql │ ├── limpeza_dados.sql │ ├── analise_dados.sql │-- 📂 dataset/ # Arquivo de dados utilizado │ ├── vendas.csv
