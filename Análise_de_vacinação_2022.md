@@ -33,3 +33,8 @@ SELECT DISTINCT patient
 	WHERE start between '2020-01-01 00:00' and '2022-12-31 23:59'
 	  AND pat.deathdate is NULL
 	  AND extract(month from age('2022-12-31',pat.birthdate)) >= 6;
+```
+## 📈 Resultados e Conclusões
+📌 Foi visto que houve uma grande taxa de aproveitamento dos pacientes vacinados em 84%;
+📉 As faixas etárias que melhor se vacinaram foram de 0-17 anos e a partir dos 50 anos.
+
