@@ -21,12 +21,5 @@ O caminho que utilizei para baixar os arquivos pode ser encontrados nesse link: 
 
 - Obter um panorama de como a vacinação foi eficiente.
 
-- ## Link para o projeto:
-
-
-
-## Artigo completo no Medium:
-
-Para acessar o artigo,
 
 <sub>[Retornar ao Portfólio](https://github.com/viniwallaz/Flu_shot_Healthcare)
